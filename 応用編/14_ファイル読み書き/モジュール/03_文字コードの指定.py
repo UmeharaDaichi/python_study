@@ -1,6 +1,6 @@
 
 fin_sjis = open('read.txt', 'r', encoding='shift_jis')
-fout_enc = open('euc-jp.txt', 'w', encoding='euc_jp')
+fout_enc = open('enc-jp.txt', 'w', encoding='euc_jp')
 fout_utf = open('utf-8.txt', 'w', encoding='utf-8')
 
 
